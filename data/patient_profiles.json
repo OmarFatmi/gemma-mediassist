@@ -1,0 +1,7 @@
+{
+  "profiles": [
+    { "key": "enfant", "label": "Enfant" },
+    { "key": "adulte", "label": "Adulte" },
+    { "key": "professionnel", "label": "Professionnel de santé" }
+  ]
+}

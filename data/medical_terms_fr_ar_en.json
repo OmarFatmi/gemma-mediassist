@@ -1,0 +1,98 @@
+[
+  {
+    "fr": "asthme",
+    "ar": "الربو",
+    "en": "asthma",
+    "definition": "Maladie respiratoire chronique provoquant des crises de gêne respiratoire."
+  },
+  {
+    "fr": "diabète",
+    "ar": "داء السكري",
+    "en": "diabetes",
+    "definition": "Maladie qui cause un excès de sucre dans le sang."
+  },
+  {
+    "fr": "hypertension",
+    "ar": "ارتفاع ضغط الدم",
+    "en": "high blood pressure",
+    "definition": "Tension artérielle anormalement élevée."
+  },
+  {
+    "fr": "tachycardie",
+    "ar": "تسرع القلب",
+    "en": "tachycardia",
+    "definition": "Rythme cardiaque anormalement rapide."
+  },
+  {
+    "fr": "anémie",
+    "ar": "فقر الدم",
+    "en": "anemia",
+    "definition": "Manque de globules rouges ou d'hémoglobine dans le sang."
+  },
+  {
+    "fr": "migraine",
+    "ar": "الصداع النصفي",
+    "en": "migraine",
+    "definition": "Forte douleur de tête souvent accompagnée de nausées."
+  },
+  {
+    "fr": "infection urinaire",
+    "ar": "عدوى المسالك البولية",
+    "en": "urinary tract infection",
+    "definition": "Infection dans le système urinaire (vessie, reins, etc.)."
+  },
+  {
+    "fr": "bronchite",
+    "ar": "التهاب الشعب الهوائية",
+    "en": "bronchitis",
+    "definition": "Inflammation des bronches qui cause de la toux et des difficultés respiratoires."
+  },
+  {
+    "fr": "grippe",
+    "ar": "الأنفلونزا",
+    "en": "flu",
+    "definition": "Infection virale avec fièvre, toux, fatigue."
+  },
+  {
+    "fr": "eczéma",
+    "ar": "الأكزيما",
+    "en": "eczema",
+    "definition": "Maladie de la peau provoquant rougeurs et démangeaisons."
+  },
+  {
+    "fr": "ulcère",
+    "ar": "القرحة",
+    "en": "ulcer",
+    "definition": "Plaie interne, souvent dans l’estomac, qui peut causer des douleurs."
+  },
+  {
+    "fr": "arthrite",
+    "ar": "التهاب المفاصل",
+    "en": "arthritis",
+    "definition": "Inflammation des articulations causant douleur et raideur."
+  },
+  {
+    "fr": "hépatite",
+    "ar": "التهاب الكبد",
+    "en": "hepatitis",
+    "definition": "Inflammation du foie, souvent causée par un virus."
+  },
+  {
+    "fr": "démence",
+    "ar": "الخرف",
+    "en": "dementia",
+    "definition": "Trouble qui affecte la mémoire et les fonctions mentales."
+  },
+  {
+    "fr": "AVC",
+    "ar": "السكتة الدماغية",
+    "en": "stroke",
+    "definition": "Arrêt brutal de la circulation sanguine dans le cerveau."
+  },
+  {
+    "fr": "bradycardie",
+    "ar": "",
+    "en": "",
+    "definition": ""
+  }
+]

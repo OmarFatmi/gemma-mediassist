@@ -1,0 +1,27 @@
+{
+  "asthme": [
+    "Évitez les allergènes connus (pollen, poussière)",
+    "Ayez toujours votre inhalateur à portée de main",
+    "Pratiquez des exercices de respiration quotidienne"
+  ],
+  "diabète": [
+    "Surveillez votre glycémie régulièrement",
+    "Suivez un régime équilibré faible en sucres simples",
+    "Faites de l’exercice modéré au moins 30 min par jour"
+  ],
+  "hypertension": [
+    "Réduisez votre consommation de sel",
+    "Maintenez un poids santé",
+    "Pratiquez une activité physique régulière"
+  ],
+  "tachycardie": [
+    "Évitez la caféine et les stimulants",
+    "Pratiquez des techniques de relaxation (yoga, méditation)",
+    "Consultez un médecin si les épisodes persistent"
+  ],
+  "anémie": [
+    "Consommez des aliments riches en fer (lentilles, épinards)",
+    "Associez la vitamine C pour améliorer l’absorption du fer",
+    "Faites un suivi sanguin régulier"
+  ]
+}
