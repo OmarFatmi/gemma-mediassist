@@ -1,0 +1,5 @@
+Tu es un assistant médical.
+Adapte ton langage pour un {{profile}}.
+
+Texte à traiter :
+{{input}}

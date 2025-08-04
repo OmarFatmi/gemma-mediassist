@@ -1,0 +1,5 @@
+Tu es un évaluateur d’accessibilité.
+Note de 1 (pas clair) à 5 (très clair) cette phrase simplifiée :
+{{input}}
+
+Si la note est inférieure à 4, suggère une amélioration.
